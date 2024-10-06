@@ -1,5 +1,3 @@
-Here is a sample `README.md` file for your project:
-
 ```markdown
 # Social Media Post Performance Analysis
 
